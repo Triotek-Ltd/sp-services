@@ -1,0 +1,152 @@
+[
+  {
+    "module_code": "sp6_2",
+    "module_label": "SP6.2 - Appointment Scheduling",
+    "module_title": "Appointment Scheduling",
+    "module_slug": "appointment_scheduling",
+    "app_code": "sp6",
+    "app_label": "SP6 - Services",
+    "bundle_code": "sp",
+    "source_md_path": "doc/rnd/plugs/sp/sp6/sp6.1.md"
+  },
+  {
+    "module_code": "sp6_1",
+    "module_label": "SP6.1 - Case Management",
+    "module_title": "Case Management",
+    "module_slug": "case_management",
+    "app_code": "sp6",
+    "app_label": "SP6 - Services",
+    "bundle_code": "sp",
+    "source_md_path": "doc/rnd/plugs/sp/sp6/sp6.1.md"
+  },
+  {
+    "module_code": "sp6_4",
+    "module_label": "SP6.4 - Client Billing",
+    "module_title": "Client Billing",
+    "module_slug": "client_billing",
+    "app_code": "sp6",
+    "app_label": "SP6 - Services",
+    "bundle_code": "sp",
+    "source_md_path": "doc/rnd/plugs/sp/sp6/sp6.1.md"
+  },
+  {
+    "module_code": "sp6_8",
+    "module_label": "SP6.8 - Consulting Project Tracking",
+    "module_title": "Consulting Project Tracking",
+    "module_slug": "consulting_project_tracking",
+    "app_code": "sp6",
+    "app_label": "SP6 - Services",
+    "bundle_code": "sp",
+    "source_md_path": "doc/rnd/plugs/sp/sp6/sp6.1.md"
+  },
+  {
+    "module_code": "sp6_12",
+    "module_label": "SP6.12 - Customer Support Center",
+    "module_title": "Customer Support Center",
+    "module_slug": "customer_support_center",
+    "app_code": "sp6",
+    "app_label": "SP6 - Services",
+    "bundle_code": "sp",
+    "source_md_path": "doc/rnd/plugs/sp/sp6/sp6.1.md"
+  },
+  {
+    "module_code": "sp6_13",
+    "module_label": "SP6.13 - Education & Training Services",
+    "module_title": "Education & Training Services",
+    "module_slug": "education_and_training_services",
+    "app_code": "sp6",
+    "app_label": "SP6 - Services",
+    "bundle_code": "sp",
+    "source_md_path": "doc/rnd/plugs/sp/sp6/sp6.1.md"
+  },
+  {
+    "module_code": "sp6_15",
+    "module_label": "SP6.15 - Financial Services Operations",
+    "module_title": "Financial Services Operations",
+    "module_slug": "financial_services_operations",
+    "app_code": "sp6",
+    "app_label": "SP6 - Services",
+    "bundle_code": "sp",
+    "source_md_path": "doc/rnd/plugs/sp/sp6/sp6.1.md"
+  },
+  {
+    "module_code": "sp6_14",
+    "module_label": "SP6.14 - Healthcare Service Operations",
+    "module_title": "Healthcare Service Operations",
+    "module_slug": "healthcare_service_operations",
+    "app_code": "sp6",
+    "app_label": "SP6 - Services",
+    "bundle_code": "sp",
+    "source_md_path": "doc/rnd/plugs/sp/sp6/sp6.1.md"
+  },
+  {
+    "module_code": "sp6_6",
+    "module_label": "SP6.6 - Knowledge Base",
+    "module_title": "Knowledge Base",
+    "module_slug": "knowledge_base",
+    "app_code": "sp6",
+    "app_label": "SP6 - Services",
+    "bundle_code": "sp",
+    "source_md_path": "doc/rnd/plugs/sp/sp6/sp6.1.md"
+  },
+  {
+    "module_code": "sp6_7",
+    "module_label": "SP6.7 - Resource Assignment",
+    "module_title": "Resource Assignment",
+    "module_slug": "resource_assignment",
+    "app_code": "sp6",
+    "app_label": "SP6 - Services",
+    "bundle_code": "sp",
+    "source_md_path": "doc/rnd/plugs/sp/sp6/sp6.1.md"
+  },
+  {
+    "module_code": "sp6_10",
+    "module_label": "SP6.10 - Service Quality Analytics",
+    "module_title": "Service Quality Analytics",
+    "module_slug": "service_quality_analytics",
+    "app_code": "sp6",
+    "app_label": "SP6 - Services",
+    "bundle_code": "sp",
+    "source_md_path": "doc/rnd/plugs/sp/sp6/sp6.1.md"
+  },
+  {
+    "module_code": "sp6_5",
+    "module_label": "SP6.5 - SLA Monitoring",
+    "module_title": "SLA Monitoring",
+    "module_slug": "sla_monitoring",
+    "app_code": "sp6",
+    "app_label": "SP6 - Services",
+    "bundle_code": "sp",
+    "source_md_path": "doc/rnd/plugs/sp/sp6/sp6.1.md"
+  },
+  {
+    "module_code": "sp6_11",
+    "module_label": "SP6.11 - Subscription Billing",
+    "module_title": "Subscription Billing",
+    "module_slug": "subscription_billing",
+    "app_code": "sp6",
+    "app_label": "SP6 - Services",
+    "bundle_code": "sp",
+    "source_md_path": "doc/rnd/plugs/sp/sp6/sp6.1.md"
+  },
+  {
+    "module_code": "sp6_9",
+    "module_label": "SP6.9 - Ticketing System",
+    "module_title": "Ticketing System",
+    "module_slug": "ticketing_system",
+    "app_code": "sp6",
+    "app_label": "SP6 - Services",
+    "bundle_code": "sp",
+    "source_md_path": "doc/rnd/plugs/sp/sp6/sp6.1.md"
+  },
+  {
+    "module_code": "sp6_3",
+    "module_label": "SP6.3 - Time Tracking",
+    "module_title": "Time Tracking",
+    "module_slug": "time_tracking",
+    "app_code": "sp6",
+    "app_label": "SP6 - Services",
+    "bundle_code": "sp",
+    "source_md_path": "doc/rnd/plugs/sp/sp6/sp6.1.md"
+  }
+]
